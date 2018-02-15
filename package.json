@@ -1,0 +1,15 @@
+{
+  "name": "azure-app-service-koa-example",
+  "version": "1.0.0",
+  "description": "azure-koa-example",
+  "main": "server.js",
+  "dependencies": {
+    "koa": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rkdgusrnrlrl@gmail.com",
+  "license": "MIT"
+}
