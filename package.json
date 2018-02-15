@@ -4,7 +4,8 @@
   "description": "azure-koa-example",
   "main": "server.js",
   "dependencies": {
-    "koa": "^2.5.0"
+    "koa": "^2.5.0",
+    "koa-logger": "^3.1.0"
   },
   "devDependencies": {},
   "scripts": {
